@@ -1,0 +1,12 @@
+*{
+    font-family: 'poppins' , sans-serif;
+}
+
+.banner{
+    padding: 250px 0;
+    background-image: url(./images/download.jpg);
+}
+
+.skills-padding{
+    padding: 80px 0;
+}
